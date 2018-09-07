@@ -14,7 +14,7 @@ Description of files and folders:
 				${1} = name of *.idxstats file
 				${2} = read length - this is calculated by extract_copy_no.sh file
 
-		3. phase3.*.mapped.bams.txt: list of individual IDs (first column) and names of *.bam files (second column) - used to run extract_copy_no.sh in batch. * = {CEU,YRI}
+		3. phase3.*.mapped.bams.txt: list of individual IDs (first column) and names of *.bam files (second column) - used to run extract_copy_no.sh in batch. * = {CEU,YRI,Admixed}
 
 	Folders:
 

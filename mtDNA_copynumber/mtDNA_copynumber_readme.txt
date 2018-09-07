@@ -20,7 +20,8 @@
 					${1} = name of *.idxstats file
 					${2} = read length - this is calculated by extract_copy_no.sh file
 
-			3. phase3.*.mapped.bams.txt: list of individual IDs (first column) and names of *.bam files (second column) - used to run extract_copy_no.sh in batch. * = {CEU,YRI}
+			3. phase3.*.mapped.bams.txt: list of individual IDs (first column) and names of *.bam files (second column) - used to run extract_copy_no.sh in batch. 
+			* = {CEU,YRI,Americans}
 
 		Folders:
 
@@ -36,12 +37,19 @@
 				arguments: 
 					${1} = id of individual (e.g. NA18486)
 					${2} = full name of .bam alignment file  - provided in *.bams.txt files (see below)
+					${3} = coverage type (either low or high). If alignment is low, the argument is just "alignment". If alignment is high, the argument is "high_coverage_alignment"
 
-			2. *_cov_bam.txt: list of IDs and their corresponding bam files
+			2. cal_mtdna_copy.R: R script uses .idxstats file and read length provided by user
+				arguments:
+					${1} = name of *.idxstats file
+					${2} = read length - this is calculated by extract_copy_no.sh file
+
+			3. *_cov_bam.txt: list of IDs and their corresponding bam files. 
+				* = {low, high}
 
 		Folders:
 
-			1. high_cov and low_cov: folders containing *.idxstats and *.mtdna files
+			1. "high_coverage_alignment" and "alignment": folders containing *.idxstats and *.mtdna files calculated from high coverage and low coverage alignments, respectively.
 
 
 - Association_bw_ancestry_and_copyn: Code to run association between mtDNA copy number and mito-nuclear discordance

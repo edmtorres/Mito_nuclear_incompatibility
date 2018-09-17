@@ -15,6 +15,7 @@
 					${1} = id of individual (e.g. NA18486)
 					${2} = full name of .bam alignment file  - provided in *.bams.txt files (see below)
 
+
 			2. cal_mtdna_copy.R: R script uses .idxstats file and read length provided by user
 				arguments:
 					${1} = name of *.idxstats file
@@ -44,7 +45,7 @@
 					${1} = name of *.idxstats file
 					${2} = read length - this is calculated by extract_copy_no.sh file
 
-			3. *_cov_bam.txt: list of IDs and their corresponding bam files. 
+			3. *_cov_bam.txt: list of IDs and their corresponding bam files, as well as the ftp site for each one.
 				* = {low, high}
 
 		Folders:
@@ -64,6 +65,10 @@
 
 		4. lowcov_mtdna_copyn_distribution_6012018.pdf: plot showing distribution of mtDNA copy number annotated by tissue type
 
-		5. mitonuclear_copyn_distribution_06012018.pdf: Fig. 3 of the main text
+		5. mitonuclear_copyn_assoc_parents.pdf: Fig. 3 of the main text
+
+		6. mtcopy_population.pdf
+
+		7. plotting_mtcopy_across_populations.R
 
 

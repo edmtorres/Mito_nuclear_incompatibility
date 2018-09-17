@@ -3,9 +3,8 @@
 args<-commandArgs(TRUE)
 
 if (length(args)<2) {
-  stop("At least two arguments must be supplied (input file).\n", call.=FALSE)
-} else if (length(args)==2) {
-
+  stop("At least three arguments must be supplied (input file).\n", call.=FALSE)
+} else if (length(args)==2)
 
 idxstats<-read.table(args[1],header=F)
 read_length<-as.numeric(args[2])
@@ -28,4 +27,4 @@ idxstats$mtdna_no<-with(idxstats,(mtcov/coverage)*2)
 idxstats$IID<-name
 
 write.table(idxstats,paste(name,".mtdna_no",sep=""),col.names=T,row.names=F,quote=F,sep="\t")
-}
+

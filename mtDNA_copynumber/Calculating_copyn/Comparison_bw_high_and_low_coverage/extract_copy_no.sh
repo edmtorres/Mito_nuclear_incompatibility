@@ -16,11 +16,9 @@ read_length=`samtools view ${alignment} |head -n 1000 |awk '{sum+=length($10)} E
 echo $read_length
 echo "running idxstats"
 
-samtools idxstats ${alignment} > ${coverage)/idxstats/${iid}.idxstats
+samtools idxstats ${alignment} > ${coverage}/idxstats/${iid}.idxstats
 
 echo "calculating depth of sequencing"
 
 Rscript cal_mtdna_copy.R ${coverage}/idxstats/${iid}.idxstats ${read_length}
-
-
 

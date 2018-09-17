@@ -1,0 +1,1979 @@
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00641"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00733"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00637"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00740"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01048"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01055"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01058"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01079"
+86.725
+running idxstats
+calculating depth of sequencing
+[1] "HG01060"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01077"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01086"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01089"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01067"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01130"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01113"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01104"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01173"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG00742"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01111"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01098"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01101"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01308"
+86.47
+running idxstats
+calculating depth of sequencing
+[1] "HG01072"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01142"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01161"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01205"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01341"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01257"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01248"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01269"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01250"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01271"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01170"
+100
+running idxstats
+calculating depth of sequencing
+100
+running idxstats
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00641"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00733"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00637"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00740"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01048"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01055"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01058"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01079"
+86.725
+running idxstats
+calculating depth of sequencing
+[1] "HG01060"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01077"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01086"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01089"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01067"
+100
+running idxstats
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00641"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00733"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00637"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00740"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01048"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01055"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01058"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01079"
+86.725
+running idxstats
+calculating depth of sequencing
+[1] "HG01060"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01077"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01086"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01089"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01067"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01130"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01113"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01104"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01173"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG00742"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01111"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01098"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01101"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01308"
+86.47
+running idxstats
+calculating depth of sequencing
+[1] "HG01072"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01142"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01161"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01205"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01341"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01257"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01248"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01269"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01250"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01271"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01170"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01281"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01286"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01182"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01149"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01344"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01168"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01351"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01303"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01125"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01197"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01137"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01200"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01187"
+100.996
+running idxstats
+calculating depth of sequencing
+[1] "HG01356"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01363"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01353"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01402"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01360"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01375"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01365"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01325"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01492"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01577"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01497"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01459"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01438"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01461"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01440"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01389"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01396"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01372"
+100.996
+running idxstats
+calculating depth of sequencing
+[1] "HG01377"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01488"
+100.996
+running idxstats
+calculating depth of sequencing
+[1] "HG01384"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01464"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01435"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01565"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01572"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01495"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01447"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01414"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01485"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01550"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01938"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01945"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01921"
+100.992
+running idxstats
+calculating depth of sequencing
+[1] "HG01889"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01926"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01933"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01914"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01882"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01894"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01896"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG02013"
+100.785
+running idxstats
+calculating depth of sequencing
+[1] "HG02107"
+100.99
+running idxstats
+calculating depth of sequencing
+[1] "HG01992"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01997"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02003"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02008"
+101.018
+running idxstats
+calculating depth of sequencing
+[1] "HG02010"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02102"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01947"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01983"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01954"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01988"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01990"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01961"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02053"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01971"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01976"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01923"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01935"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG02051"
+100.994
+running idxstats
+calculating depth of sequencing
+[1] "HG01980"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01985"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01973"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02006"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01942"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02260"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02265"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02272"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02089"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02104"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02277"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02284"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02111"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02253"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG02147"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02291"
+101.006
+running idxstats
+calculating depth of sequencing
+[1] "HG02255"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02501"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02304"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02309"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02323"
+89.82
+running idxstats
+calculating depth of sequencing
+[1] "HG02325"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02450"
+121.112
+running idxstats
+calculating depth of sequencing
+[1] "HG02332"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02455"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02337"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02479"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02481"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02281"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02286"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02330"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02298"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02301"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02429"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02549"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02262"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02274"
+121.376
+running idxstats
+calculating depth of sequencing
+[1] "HG02419"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02433"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02445"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02318"
+100.627
+running idxstats
+calculating depth of sequencing
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02541"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02546"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02471"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02476"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02577"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02508"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02558"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00554"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00551"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00638"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00732"
+108
+running idxstats
+calculating depth of sequencing
+[1] "HG00640"
+87.355
+running idxstats
+calculating depth of sequencing
+[1] "HG01061"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01066"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01064"
+87.76
+running idxstats
+calculating depth of sequencing
+[1] "HG01073"
+86.47
+running idxstats
+calculating depth of sequencing
+[1] "HG01069"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00734"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00737"
+84.46
+running idxstats
+calculating depth of sequencing
+[1] "HG01083"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01080"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01088"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01085"
+86.875
+running idxstats
+calculating depth of sequencing
+[1] "HG01052"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01047"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01054"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01254"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00739"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01259"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01148"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01191"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01204"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01162"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01167"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01177"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01251"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01095"
+100
+running idxstats
+samtools idxstats: fail to load index for "ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/HG01124/alignment/HG01124.mapped.ILLUMINA.bwa.CLM.low_coverage.20120522.bam", reverting to slow method
+100
+running idxstats
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01131"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01122"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01136"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01134"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01105"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01108"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01112"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01110"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01092"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01097"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01280"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01139"
+101
+running idxstats
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01302"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01242"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01174"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01247"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01198"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01256"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01348"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01350"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01369"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01456"
+101.002
+running idxstats
+calculating depth of sequencing
+[1] "HG01383"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01468"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01441"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01374"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01390"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01305"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01395"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01312"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01413"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01489"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01432"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01437"
+100.984
+running idxstats
+calculating depth of sequencing
+[1] "HG01357"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01444"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01403"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01362"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01345"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01393"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01465"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01398"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01326"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01571"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01494"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01566"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01578"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01491"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01879"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19679"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19681"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19716"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19648"
+100.994
+running idxstats
+calculating depth of sequencing
+[1] "NA19658"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19660"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19655"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19723"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19728"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19735"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19747"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01965"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19759"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02012"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19761"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01977"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01953"
+81.675
+running idxstats
+calculating depth of sequencing
+[1] "NA19720"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01958"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19725"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01886"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19684"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02014"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19732"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01893"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19756"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01951"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01956"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01927"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01918"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01883"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01920"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19794"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01968"
+82.9
+running idxstats
+calculating depth of sequencing
+[1] "NA19780"
+100.988
+running idxstats
+calculating depth of sequencing
+[1] "HG01890"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01970"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19785"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19770"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19792"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01989"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01939"
+86.275
+running idxstats
+calculating depth of sequencing
+[1] "NA19782"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01941"
+101.002
+running idxstats
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01982"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02002"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19749"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19773"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01915"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01944"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01932"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02090"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02095"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG02146"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02108"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02144"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02052"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02259"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02266"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02252"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02278"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02334"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02285"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02339"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02312"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02317"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02292"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02308"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02315"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02322"
+122
+running idxstats
+calculating depth of sequencing
+[1] "HG02283"
+84.058
+running idxstats
+calculating depth of sequencing
+[1] "HG02343"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02348"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02271"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02485"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02497"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02545"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02505"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02449"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02555"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02470"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02536"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02557"
+84.66
+running idxstats
+calculating depth of sequencing
+[1] "HG02420"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02425"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02502"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02442"
+82.091
+running idxstats
+calculating depth of sequencing
+[1] "NA19678"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19685"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19717"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19654"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19729"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19661"
+84.025
+running idxstats
+calculating depth of sequencing
+[1] "NA19779"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19786"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19762"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19774"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19750"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19755"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19664"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19731"
+101.19
+running idxstats
+calculating depth of sequencing
+[1] "NA19669"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19676"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19652"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19657"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19758"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19734"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19741"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19746"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19722"
+93.175
+running idxstats
+calculating depth of sequencing
+[1] "NA19789"
+86.425
+running idxstats
+calculating depth of sequencing
+[1] "NA19777"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00731"
+108
+running idxstats
+108
+running idxstats
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG00736"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG00743"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01107"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01119"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01140"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01164"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01049"
+88.39
+running idxstats
+calculating depth of sequencing
+[1] "HG01051"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01094"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01102"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01121"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01133"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01075"
+76
+running idxstats
+calculating depth of sequencing
+[1] "HG01082"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01063"
+86.65
+running idxstats
+calculating depth of sequencing
+[1] "HG01070"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01171"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01176"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01183"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01253"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01260"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01272"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01354"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01359"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01188"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01190"
+91
+running idxstats
+calculating depth of sequencing
+[1] "HG01366"
+100.996
+running idxstats
+calculating depth of sequencing
+[1] "HG01378"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01342"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01277"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01284"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01311"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01323"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01241"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01551"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01556"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01498"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01474"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01479"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01486"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01392"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01405"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01412"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01431"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01455"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01462"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01443"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01912"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01917"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01880"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01885"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01892"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01936"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01924"
+100.992
+running idxstats
+calculating depth of sequencing
+[1] "HG02009"
+101.006
+running idxstats
+calculating depth of sequencing
+[1] "HG01979"
+90
+running idxstats
+calculating depth of sequencing
+[1] "HG01986"
+100.998
+running idxstats
+calculating depth of sequencing
+[1] "HG02054"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01948"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG01950"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01967"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG01974"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02143"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02150"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02299"
+101.006
+running idxstats
+calculating depth of sequencing
+[1] "HG02256"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02275"
+101.018
+running idxstats
+calculating depth of sequencing
+[1] "HG02282"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02105"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02427"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02439"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02477"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02484"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02489"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02307"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02314"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02496"
+101
+running idxstats
+calculating depth of sequencing
+[1] "HG02511"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02345"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02554"
+100
+running idxstats
+calculating depth of sequencing
+[1] "HG02580"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19663"
+100.998
+running idxstats
+calculating depth of sequencing
+[1] "NA19670"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19675"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19719"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19726"
+100.998
+running idxstats
+calculating depth of sequencing
+[1] "NA19649"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19651"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19740"
+76
+running idxstats
+calculating depth of sequencing
+[1] "NA19682"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19764"
+100
+running idxstats
+calculating depth of sequencing
+[1] "NA19771"
+86.2
+running idxstats
+calculating depth of sequencing
+[1] "NA19776"
+90.025
+running idxstats
+calculating depth of sequencing
+[1] "NA19783"
+87.425
+running idxstats
+calculating depth of sequencing
+[1] "NA19788"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19795"
+101
+running idxstats
+calculating depth of sequencing
+[1] "NA19752"

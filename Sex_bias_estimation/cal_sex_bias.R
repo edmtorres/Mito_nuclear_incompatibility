@@ -99,6 +99,7 @@ sex.bias.pop<-function(pop){
   return(dat)
 }
 
+# mfestimates = Male & Female Estimates
 mfestimates<-sapply(admx.pops,sex.bias.pop,simplify=F,USE.NAMES=T)
 mfestimates<-do.call(rbind,mfestimates)
 mfestimates<-melt(mfestimates,id.vars=c("anc.pop","admx.pop"))

@@ -115,7 +115,7 @@ mfestimates<-ddply(mfestimates,.(admx.pop,sex),function(x){
 
 #plot m and f proportions for each population
 mf.plt<-ggplot(mfestimates,aes(sex,norm.proportion,fill=anc.pop))+
-  geom_bar(stat="density")+
+  geom_bar(stat="identity")+
   facet_wrap(~admx.pop)+
   scale_fill_manual(values=c("#66c2a5","#fc8d62","#8da0cb"))+
   theme_bw()+

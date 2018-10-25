@@ -2,7 +2,7 @@ library(plyr)
 library(reshape2)
 library(ggplot2)
 
-#setwd("/Users/Azaidi/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/sex_biased_admixture")
+##setwd("/User/____/Documents/Mito_nuclear_incompatibility/Sex_bias_estimation")
 
 #read pop file
 pop<-read.table('../Data_tables/pop_1kg.txt',header=T,stringsAsFactors = F)
@@ -12,19 +12,19 @@ colnames(pop)<-c("IID","Sex","Population")
 admx.pops<-c("ACB","ASW","CLM","MXL","PEL","PUR")
 
 #read autosomal ancestry
-#glanc.autosome<-read.table("~/Documents/mtproj_files/mitonuclear_project/local_ancestry_1kgcalls/viterbi/clean_viterbi/AMR_04182018.autosome.glanc",header=T)
-qfile.autosome<-read.table("~/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/admixture_results/Autosome/1kg_nam_flipped.3.Q",header=F)
+##glanc.autosome<-read.table("~/Documents/mtproj_files/mitonuclear_project/local_ancestry_1kgcalls/viterbi/clean_viterbi/AMR_04182018.autosome.glanc",header=T)
+qfile.autosome<-read.table("../ADMIXTURE_ancestry/Autosome/1kg_nam_flipped.3.Q",header=F)
 colnames(qfile.autosome)<-c("European","African","Native_American")
-auto.fam<-read.table('~/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/admixture_results/Autosome/1kg_nam_flipped.fam',header=F)
+auto.fam<-read.table('../ADMIXTURE_ancestry/Autosome/1kg_nam_flipped.fam',header=F)
 auto.fam<-auto.fam[,c(1:2)]
 colnames(auto.fam)<-c("FID","IID")
 qfile.autosome<-cbind(auto.fam,qfile.autosome)
 qfile.autosome<-merge(qfile.autosome,pop,by="IID")
-#glanc.autosome<-merge(glanc.autosome,pop,by="IID")
-#colnames(glanc.autosome)[c(2:4)]<-c("European","African","Native_American")
+##glanc.autosome<-merge(glanc.autosome,pop,by="IID")
+##colnames(glanc.autosome)[c(2:4)]<-c("European","African","Native_American")
 
-#calculate mean ancestry across all individuals
-#fpop.auto<-ddply(glanc.autosome[,c('Population','European','African','Native_American')],.(Population),colwise(mean))
+##calculate mean ancestry across all individuals
+##fpop.auto<-ddply(glanc.autosome[,c('Population','European','African','Native_American')],.(Population),colwise(mean))
 
 #calculate average autosomal ancestry for each population
 f.pop.auto<-ddply(qfile.autosome[,c("European","African","Native_American","Population")],.(Population),summarize,European=mean(European),African=mean(African),Native_American=mean(Native_American))

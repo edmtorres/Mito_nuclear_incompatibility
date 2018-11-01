@@ -1,4 +1,5 @@
 library(data.table)
+library(ggplot2)
 
 #write function to simulate variation in local ancestry
 sim.admix<-function(a0,b0,c0,g,nind=1250){
@@ -29,10 +30,10 @@ sim.admix<-function(a0,b0,c0,g,nind=1250){
 
 
 #read local ancestry frequency for the population of interest
-avg.lanc<-fread('~/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/lanc_enrichment_in_mtgenes/lanc_popavg_PUR.txt',sep="\t",header=T)
+avg.lanc<-fread('/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility/Neutral_simulations/PUR/lanc_popavg_PUR.txt',sep="\t",header=T)
 avg.lanc$hg19chr<-paste("chr",avg.lanc$chr,sep="")
 
-#subsample 1000 loci
+#subsample 10000 loci
 avg.lanc.red<-avg.lanc[sample(nrow(avg.lanc),10000),]
 
 output<-as.data.frame(t(replicate(10000,sim.admix(mean(avg.lanc.red$afr.lanc),mean(avg.lanc.red$eur.lanc),mean(avg.lanc.red$nat.lanc),17))))
@@ -71,7 +72,7 @@ ggsave("qq_autosomal_PUR.pdf",qq.plot,height=5,width=10)
 
 
 #loading sex specific ancestry contributions for each population
-mf.props<-read.table("~/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/sex_biased_admixture/sex_spec_ancestry_contribs_avg_04272018.txt",header=T)
+mf.props<-read.table("/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility/Sex_bias_estimation/sex_spec_ancestry_contribs_avg.txt",header=T)
 mf.pur<-mf.props[which(mf.props$admx.pop=="PUR" & mf.props$sex=="f"),]
 
 #write function to simulate variation in mtDNA given proportion of females

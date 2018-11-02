@@ -1,9 +1,7 @@
 library(data.table)
 library(ggplot2)
 
-##setwd("/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility")
-
-#write function to simulate variation in local ancestry
+#write function to simulate variation in local ancestry (over certain 'g' generations and 'nind' # of individuals)
 sim.admix<-function(a0,b0,c0,g,nind=1250){
   nchrom<-nind*2
   nchrom.a0<-a0*nchrom
@@ -38,6 +36,7 @@ avg.lanc$hg19chr<-paste("chr",avg.lanc$chr,sep="")
 #subsample 10000 loci
 avg.lanc.red<-avg.lanc[sample(nrow(avg.lanc),10000),]
 
+#Simulate variation in local ancestry in Puerto Rican (PUR) population over 17 generations with N=1250.
 output<-as.data.frame(t(replicate(10000,sim.admix(mean(avg.lanc.red$afr.lanc),mean(avg.lanc.red$eur.lanc),mean(avg.lanc.red$nat.lanc),17))))
 colnames(output)<-c("African","European","Native_American")
 
@@ -103,7 +102,7 @@ sim.mt<-function(af,bf,cf,g,nind=1250){
   return(c(nchrom.af,nchrom.bf,nchrom.cf)/nchrom)
 }
 
-#simulate
+#simulate variation in mtDNA
 mt.sim.dat<-as.data.frame(t(replicate(10000,sim.mt(mf.pur$proportion[3],mf.pur$proportion[2],mf.pur$proportion[3],17))))
 colnames(mt.sim.dat)<-c("African","European","Native_American")
 

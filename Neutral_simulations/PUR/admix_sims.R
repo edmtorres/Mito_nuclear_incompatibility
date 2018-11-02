@@ -1,6 +1,8 @@
 library(data.table)
 library(ggplot2)
 
+##setwd("/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility")
+
 #write function to simulate variation in local ancestry
 sim.admix<-function(a0,b0,c0,g,nind=1250){
   nchrom<-nind*2
@@ -30,7 +32,7 @@ sim.admix<-function(a0,b0,c0,g,nind=1250){
 
 
 #read local ancestry frequency for the population of interest
-avg.lanc<-fread('/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility/Neutral_simulations/PUR/lanc_popavg_PUR.txt',sep="\t",header=T)
+avg.lanc<-fread('./Neutral_simulations/PUR/lanc_popavg_PUR.txt',sep="\t",header=T)
 avg.lanc$hg19chr<-paste("chr",avg.lanc$chr,sep="")
 
 #subsample 10000 loci
@@ -72,7 +74,7 @@ ggsave("qq_autosomal_PUR.pdf",qq.plot,height=5,width=10)
 
 
 #loading sex specific ancestry contributions for each population
-mf.props<-read.table("/Users/edmtorres/Documents/GitHub/Mito_nuclear_incompatibility/Sex_bias_estimation/sex_spec_ancestry_contribs_avg.txt",header=T)
+mf.props<-read.table("./Sex_bias_estimation/sex_spec_ancestry_contribs_avg.txt",header=T)
 mf.pur<-mf.props[which(mf.props$admx.pop=="PUR" & mf.props$sex=="f"),]
 
 #write function to simulate variation in mtDNA given proportion of females
@@ -106,10 +108,10 @@ mt.sim.dat<-as.data.frame(t(replicate(10000,sim.mt(mf.pur$proportion[3],mf.pur$p
 colnames(mt.sim.dat)<-c("African","European","Native_American")
 
 #read observed mt frequencies
-mt.obs.dat<-read.table("~/Documents/mtproj_files/mitonuclear_project/mtnuc_organization/sex_biased_admixture/mtprop_table.txt",header=T)
+mt.obs.dat<-read.table("./Data_tables/mtprop_table.txt",header=T)
 mt.obs.pur<-mt.obs.dat[which(mt.obs.dat$Population=="PUR"),]
 
-#plt simulated data against observed mt haplogroup freuency
+#plt simulated data against observed mt haplogroup frequency
 mt.sim.dat<-melt(mt.sim.dat)
 colnames(mt.sim.dat)<-c("Ancestry","sim.f")
 
